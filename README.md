@@ -34,4 +34,4 @@ Realizar auditorias e simulações contínuas para reduzir vieses.
 Registrar decisões do veículo para garantir responsabilização legal.
 
 📄 Para mais detalhes, confira o relatório completo em PDF:
-[Link para o relatório completo]
+[[Link para o relatório completo](https://github.com/Bernardokrothh/Carros-aut-nomos-e-Dilemas-ticos-em-acidentes.-/blob/main/1.pdf)]
