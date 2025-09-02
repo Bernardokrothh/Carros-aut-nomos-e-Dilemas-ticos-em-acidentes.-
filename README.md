@@ -6,25 +6,16 @@ Os carros autônomos prometem revolucionar a mobilidade, mas também levantam di
 
 1️⃣ Viés e Justiça
 
-Algoritmos podem priorizar certos perfis, afetando passageiros, pedestres ou grupos específicos de maneira desigual.
-
 2️⃣ Transparência e Explicabilidade
-
-Decisões em tempo real são feitas por modelos complexos de IA (“black boxes”), dificultando auditoria e compreensão.
 
 3️⃣ Impacto Social e Direitos
 
-Afeta segurança, autonomia dos usuários, direitos fundamentais (vida e integridade física) e mercado de trabalho.
-
 4️⃣ Responsabilidade e Governança
-
-Fundamental adotar princípios de Ethical AI by Design: segurança, responsabilidade, auditabilidade.
-
-Regulamentação clara é necessária para orientar o desenvolvimento e uso seguro.
 
 💡 Posicionamento
 
-Os carros autônomos devem ser aprimorados com regulamentação ética rigorosa, testes extensivos e total transparência antes da adoção generalizada.
+Os carros autônomos devem ser aprimorados com regulamentação ética rigorosa?
+
 Recomendações principais:
 
 Estabelecer diretrizes éticas sobre decisões de vida e morte.
@@ -33,5 +24,4 @@ Realizar auditorias e simulações contínuas para reduzir vieses.
 
 Registrar decisões do veículo para garantir responsabilização legal.
 
-📄 Para mais detalhes, confira o relatório completo em PDF:
-[[Link para o relatório completo](https://github.com/Bernardokrothh/Carros-aut-nomos-e-Dilemas-ticos-em-acidentes.-/blob/main/1.pdf)]
+📄 [Para mais detalhes, confira o relatório completo em PDF:(https://github.com/Bernardokrothh/Carros-aut-nomos-e-Dilemas-ticos-em-acidentes.-/blob/main/1.pdf)]
